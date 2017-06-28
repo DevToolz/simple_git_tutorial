@@ -1,3 +1,7 @@
 div.section#introduction {
   text-align: justify;
 }
+
+div.section#configuration {
+  text-align: justify;
+}
