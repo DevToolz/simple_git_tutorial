@@ -9,3 +9,4 @@
 
    | https://lists.gnupg.org/pipermail/gnupg-announce/
    | https://www.gpg4win.org/download.html
+   | https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
